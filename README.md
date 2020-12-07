@@ -14,14 +14,14 @@ To simplify things (so you don't need IDE to run the application), the project s
 
 ```
 $CryptoChat rm ChatServer/*.class
-$CryptoCha javac -cp ".:./jars/commons-lang3-3.1.jar" ChatServer/*.java
+$CryptoChat javac -cp ".:./jars/commons-lang3-3.1.jar" ChatServer/*.java
 ```
 
 **Client**
 
 ```
 $CryptoChat rm ChatClient/*.class
-$CryptoCha javac -cp ".:./jars/commons-lang3-3.1.jar" ChatClient/*.java
+$CryptoChat javac -cp ".:./jars/commons-lang3-3.1.jar" ChatClient/*.java
 ```
 
 ------
