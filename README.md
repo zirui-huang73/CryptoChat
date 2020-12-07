@@ -50,8 +50,9 @@ $CryptoChat java -cp ".:./jars/commons-lang3-3.1.jar" ChatClient.ClientMain
 
 ### Demo
 
-<img height="150" src="https://github.com/ziruih999/CrytoChat/blob/main/img/login.jpg"/>
-<img height="200" src="https://github.com/ziruih999/CrytoChat/blob/main/img/chat.jpg"/>
+<img height="150" src="https://github.com/ziruih999/CryptoChat/blob/main/img/login.jpg"/>
+<img height="200" src="https://github.com/ziruih999/CryptoChat/blob/main/img/chat.jpg"/>
+<img height="200" src="https://github.com/ziruih999/CryptoChat/blob/main/img/server.jpg"/>
 
 ### Reference
 
