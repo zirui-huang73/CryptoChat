@@ -13,15 +13,15 @@ To simplify things (so you don't need IDE to run the application), the project s
 ##### Server
 
 ```
-$CryptoChat rm ChatServer/*.class
-$CryptoChat javac -cp ".:./jars/commons-lang3-3.1.jar" ChatServer/*.java
+CryptoChat$ rm ChatServer/*.class
+CryptoChat$ javac -cp ".:./jars/commons-lang3-3.1.jar" ChatServer/*.java
 ```
 
 **Client**
 
 ```
-$CryptoChat rm ChatClient/*.class
-$CryptoChat javac -cp ".:./jars/commons-lang3-3.1.jar" ChatClient/*.java
+CryptoChat$ rm ChatClient/*.class
+CryptoChat$ javac -cp ".:./jars/commons-lang3-3.1.jar" ChatClient/*.java
 ```
 
 ------
@@ -35,13 +35,13 @@ Deafult Port: 8080
 ##### Run Server
 
 ```
-$CryptoChat java -cp ".:./jars/commons-lang3-3.1.jar" ChatServer.ServerMain
+CryptoChat$ java -cp ".:./jars/commons-lang3-3.1.jar" ChatServer.ServerMain
 ```
 
 ##### Run Client
 
 ```
-$CryptoChat java -cp ".:./jars/commons-lang3-3.1.jar" ChatClient.ClientMain
+CryptoChat$ java -cp ".:./jars/commons-lang3-3.1.jar" ChatClient.ClientMain
 ```
 
 *There is no restriciton on password. No duplicate login name is allowed (system can handle this).*
